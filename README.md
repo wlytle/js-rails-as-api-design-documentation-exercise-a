@@ -1,16 +1,11 @@
-# Title
+# API Design Exercise - A
 
-## Learning Goals
+## Part I - Backend API Documentation
 
--SWBAT 1
--SWBAT 2
+In this repository there is a Rails app. Your job is to explore that app (read and run the code) and write documentation for one of the resources. You should write your documentation in a markdown file.
 
-## Introduction
+Once you've finished writing the documentation, send the markdown file to your partner.
 
-## SWBAT 1
+## Part II - Build a Frontend Feature
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+Your partner will send you a markdown file documenting an API. Using that documentation, add the following feature to your frontend app.
