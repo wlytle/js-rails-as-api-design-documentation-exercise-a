@@ -16,7 +16,7 @@ Once you've finished writing the documentation, send the markdown file to your p
 
 Your partner will send you a markdown file documenting an API. Using that documentation, add the following feature to your frontend app.
 
-Build a coffee search page. It should
+Build out the coffee search page in the `coffee-frontend` directory. It should
 
 - When the page loads, display a list of the first 5 coffees
 - When the user types an origin into the origin input, show the first 5 coffees whose origin matches
