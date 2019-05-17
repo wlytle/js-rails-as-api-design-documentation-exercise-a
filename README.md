@@ -18,7 +18,7 @@ Your partner will send you a markdown file documenting an API. Using that docume
 
 Build a coffee search page. It should
 
-- display a list of coffees
-- have an input to filter by origin
-- fetch 5 results at a time
-- have a 'Next' button to fetch the next 5 results
+- When the page loads, display a list of the first 5 coffees
+- When the user types an origin into the origin input, show the first 5 coffees whose origin matches
+- When displaying coffees, only show 5 results at a time
+- When the user clicks the 'Next' button, show the next 5 results
