@@ -22,4 +22,3 @@ Build out the coffee search page in the `coffee-frontend` directory. It should
 - When the user types an origin into the origin input, show the first 5 coffees whose origin matches
 - When displaying coffees, only show 5 results at a time
 - When the user clicks the 'Next' button, show the next 5 results
-
