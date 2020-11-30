@@ -132,7 +132,11 @@ GEM
     websocket-extensions (0.1.5)
 
 PLATFORMS
+  java
   ruby
+  x64-mingw32
+  x86-mingw32
+  x86-mswin32
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
@@ -150,4 +154,4 @@ RUBY VERSION
    ruby 2.6.1p33
 
 BUNDLED WITH
-   2.0.2
+   2.2.0.rc.1
